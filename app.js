@@ -1,5 +1,5 @@
 // Base URL for API - Change this to the deployed URL when needed
-const BASE_URL = "https://segwise-assignment-izcn.onrender.com/";
+const BASE_URL = "https://segwise-assignment-izcn.onrender.com";
 
 // DOM Elements
 const navLinks = document.querySelectorAll('.nav-link');
